@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Gustavo Valentim 👾
 - 💻 Cursando Engenharia de Computação - Unb
-- 🌱 Aprendendo C/C++
 - 🎮Procurando estágio
 
 <div align="center">
