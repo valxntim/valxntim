@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Gustavo Valentim 👾
-- 💻 Cursando Engenharia de Computação - Unb
-- 🎮Procurando estágio
+- 💻 Engenharia de Computação - UnB
 
 <div align="center">
   <a href="https://github.com/valxntim">
