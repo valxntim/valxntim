@@ -14,7 +14,7 @@ Why read a static resume when you can just talk to it?
 
 I built my portfolio as a full-stack **Retrieval-Augmented Generation (RAG) system**. It uses semantic search and vector embeddings to answer questions about my experience, skills, and projects in real-time.
 
-* **Try it out:** [Link to your live Vercel/Portfolio URL]
+* **Try it out:** [https://gustavo-valentim.vercel.app]
 * **The Engine:** FastAPI, Python, Groq (`llama-3.3-70b`), OpenAI Embeddings, and Supabase (`pgvector`).
 * **The Client:** React, Vite, and Tailwind CSS (v4).
 * **The Architecture:** Hosted on a hardened DigitalOcean droplet using Gunicorn workers, rate-limited for security, and equipped with sliding-window conversational memory.
